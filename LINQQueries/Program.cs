@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace LINQQueries {
     class Program {
         static void Main(string[] args) {
+
+            Part1.Start();
         }
     }
 }
